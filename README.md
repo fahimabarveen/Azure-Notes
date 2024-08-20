@@ -1,2 +1,0 @@
-# Azure-Notes
-Azure Guidelines 
